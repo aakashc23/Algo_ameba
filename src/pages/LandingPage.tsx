@@ -1024,7 +1024,7 @@ const LandingPage = () => {
 
           <div className="mt-8 pt-6 border-t border-border/30 text-center">
             <p className="text-sm text-muted-foreground">
-              Built with React, TypeScript, and GSAP. Open source forever.
+              • Built with React ⚛️, TypeScript 🔷, and GSAP ✨<b>Aakash Chaurasia</b> •
             </p>
           </div>
         </div>
